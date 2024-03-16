@@ -1,0 +1,200 @@
+{
+  "main": {
+    "id": "9171fab2fd2a0255",
+    "type": "split",
+    "children": [
+      {
+        "id": "030f1490244345a6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "43fe50831ce4a9d6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "golang/golang项目文件架构.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f2811cedc565927e",
+    "type": "split",
+    "children": [
+      {
+        "id": "9df505189af102ea",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f181b9aa56d25e7a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "79dfeee68f6ee39a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ddf0b5b10628dc9b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "e8a166a684df6920",
+    "type": "split",
+    "children": [
+      {
+        "id": "3686e752fe239010",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "59183b062d381e9b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "c8bed7138687ea4a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "golang/golang项目文件架构.md"
+              }
+            }
+          },
+          {
+            "id": "d9737a96ee0d9606",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "golang/golang项目文件架构.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "adf975f2b4181e5f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "golang/golang项目文件架构.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "43fe50831ce4a9d6",
+  "lastOpenFiles": [
+    "assets/Pasted image 20240316100004.png",
+    "golang/golang基础笔记.md",
+    "golang/golang工程师.md",
+    "golang/golang项目文件架构.md",
+    "golang/Mongodb.md",
+    "golang/git笔记.md",
+    "golang/gin基础语法.md",
+    "golang/go项目结构.md",
+    "golang/gin的解析.md",
+    "程序设计师常识/http 八股文.md",
+    "程序设计师常识/HTTP协议笔记.md",
+    "程序设计师常识/Linux基础笔记.md",
+    "golang/单元测试.md",
+    "golang/计算机网络八股.md",
+    "程序设计师常识",
+    "assets/c9ff806b228145b5f1ae3a28a7a189cc.png",
+    "assets/103bf5ec5b77527a42e765b02c9354cd.png",
+    "golang/MongoDB基础.md",
+    "bcbdf90005158c1c22157b36f72188a9.md",
+    "assets/eea21179455809490d59a0b135726e05.png",
+    "assets/ee2f596a2679e9aa6d13cf0f5764e094.png",
+    "assets/79548c72114f9f669d0f8c9672e4b7f3.png",
+    "assets/f2a5bc56e00176c262b252c12dc7d4d8.png",
+    "assets/b58d2b0e66a271282623c43a42fd6b33.png",
+    "assets/71cb91478e92fabc704e507a688db7c5.png",
+    "assets/e3352d15cd0b68a67fe8be79df111293.png",
+    "assets/e8b88dbf00b367b186a10257a10d7593.png",
+    "golang/Golang 开发工程师入职测试考试20240229.md",
+    "双日小考.md",
+    "golang/golang 八股文.md",
+    "hunst/计算机图像学/计算机图形图像技术复习资料.md",
+    "README.md",
+    "hunst/计算机图像学/复习提纲.pptx",
+    "hunst/复习提纲.pptx",
+    "~$复习提纲.pptx",
+    "hunst/计算机图像学/数字图像处理概述.pdf",
+    "hunst/计算机图像学",
+    "hunst",
+    "hunst/计算机图像学/第1章 计算机图形学概述.pdf",
+    "golang",
+    "复习提纲.pptx",
+    "未命名.canvas",
+    "2024-03-03.md",
+    "Golang 开发工程师入职测试考试.md",
+    "picture/Golang 开发工程师入职测试考试20240229.md",
+    "Golang 开发工程师入职测试考试20240229/Golang 开发工程师入职测试考试20240229.md",
+    "Welcome.md"
+  ]
+}

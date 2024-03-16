@@ -1,0 +1,7 @@
+{
+  "showInlineTitle": true,
+  "attachmentFolderPath": "assets",
+  "alwaysUpdateLinks": true,
+  "newLinkFormat": "relative",
+  "promptDelete": false
+}
